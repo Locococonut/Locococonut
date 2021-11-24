@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Locococonut
-- 👀 I’m interested in ... software engineering
+- 👀 I’m interested in ... Software Engineering
 - 🌱 I’m currently learning ... Swift & iOS development
 - 💞️ I’m looking to collaborate on ... Creating iOS games / apps
 - 📫 How to reach me ...
